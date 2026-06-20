@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "ticket-booking": "cd ticket-booking && npm start",
+    "ticket-booking-frontend": "cd ticket-booking-frontend && npm start",
+    "dev": "concurrently \"npm run ticket-booking\" \"npm run ticket-booking-frontend\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.3"
+  }
+}
