@@ -16,7 +16,7 @@ This repository contains two apps:
 2. Start both apps concurrently from the repo root:
    npm run dev
 
-3. Backend API runs on `http://localhost:5000` and frontend runs on `http://localhost:3000`.
+3. Backend API runs on hosted server `https://eventbooking-aak6.onrender.com` and frontend runs on `http://localhost:3000`.
 
 ## Environment variables
 
